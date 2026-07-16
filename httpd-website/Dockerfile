@@ -1,4 +1,4 @@
-FROM httpd:2.4-bookworm
+FROM httpd:2.4-trixie
 
 LABEL authors="vishal.savnani"
 
